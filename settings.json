@@ -1,7 +1,7 @@
 {
   "region" : "us-east-1",
   "instance_type" : "m5.xlarge",
-  "eks_cluster_name" : "ne-cluster1",
+  "eks_cluster_name" : "ne-cluster",
   "eks_worker_node_name" : "ne-group",
   "eks_worker_node_capacity": "1",
   "k8s_version" : "1.30",
